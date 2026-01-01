@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "onboardingkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ImagINN/OnboardingKit.git",
+      "state" : {
+        "revision" : "2c24cd0dd006421db0b3dc1863ef874959962fb6",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
